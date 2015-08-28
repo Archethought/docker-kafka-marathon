@@ -1,5 +1,5 @@
 FROM ubuntu:14.04.2
-MAINTAINER tobilg <fb.tools.github@gmail.com>
+MAINTAINER Archethought <daniel.zukowski@gmail.com>
 
 RUN apt-get update && apt-get install -yq --no-install-recommends --force-yes \
     curl \
